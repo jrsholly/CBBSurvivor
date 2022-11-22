@@ -1,0 +1,593 @@
+Rank,Team,Opponent,Opponent Rank,Date,Game Count
+1,Texas,Northern Arizona,223,2022-11-21,2
+1,Texas,UT Rio Grande Valley,338,2022-11-26,2
+2,Houston,Kent State,87,2022-11-26,1
+3,Gonzaga,Portland State,261,2022-11-25,1
+4,Kentucky,North Florida,228,2022-11-23,1
+5,Virginia,Maryland-Eastern Shore,320,2022-11-25,1
+6,Baylor,McNeese,351,2022-11-23,1
+7,Tennessee,Butler,86,2022-11-23,1
+8,Indiana,Little Rock,326,2022-11-23,2
+8,Indiana,Jackson State,309,2022-11-25,2
+9,Duke,Bellarmine,220,2022-11-21,2
+9,Duke,Oregon State,240,2022-11-24,2
+10,Kansas,NC State,69,2022-11-23,1
+11,Arizona,Cincinnati,63,2022-11-21,1
+12,Alabama,Michigan State,21,2022-11-24,1
+13,UCLA,Bellarmine,220,2022-11-27,2
+13,UCLA,Pepperdine,154,2022-11-23,2
+14,Arkansas,Louisville,123,2022-11-21,1
+15,Iowa,Omaha,333,2022-11-21,2
+15,Iowa,Clemson,72,2022-11-25,2
+16,North Carolina,Portland,136,2022-11-24,1
+17,San Diego State,Ohio State,29,2022-11-21,1
+18,Auburn,Bradley,122,2022-11-22,2
+18,Auburn,Saint Louis,43,2022-11-27,2
+19,UConn,Oregon,38,2022-11-24,1
+20,Saint Mary's,Vanderbilt,78,2022-11-23,1
+21,Michigan State,Alabama,12,2022-11-24,1
+22,Maryland,Coppin State,294,2022-11-25,1
+24,Illinois,Lindenwood,343,2022-11-25,1
+25,Purdue,West Virginia,39,2022-11-24,1
+27,Mississippi State,Marquette,67,2022-11-21,1
+28,Memphis,Seton Hall,35,2022-11-24,1
+29,Ohio State,San Diego State,17,2022-11-21,1
+30,Virginia Tech,Charleston Southern,323,2022-11-25,1
+31,Penn State,Lafayette,304,2022-11-25,1
+32,Villanova,Iowa State,53,2022-11-24,1
+33,St. John's,Temple,89,2022-11-21,2
+33,St. John's,Niagara,246,2022-11-26,2
+34,Xavier,Florida,36,2022-11-24,1
+35,Seton Hall,Memphis,28,2022-11-24,1
+36,Florida,Xavier,34,2022-11-24,1
+37,Dayton,Wisconsin,41,2022-11-23,1
+38,Oregon,UConn,19,2022-11-24,1
+39,West Virginia,Purdue,25,2022-11-24,1
+40,Oklahoma State,Prairie View A&M,280,2022-11-27,2
+40,Oklahoma State,Tulsa,167,2022-11-25,2
+41,Wisconsin,Dayton,37,2022-11-23,1
+42,Michigan,Jackson State,309,2022-11-23,1
+43,Saint Louis,Auburn,18,2022-11-27,1
+44,Miami,St. Francis Brooklyn,349,2022-11-23,2
+44,Miami,UCF,70,2022-11-27,2
+45,Rutgers,Rider,210,2022-11-22,2
+45,Rutgers,Central Connecticut,334,2022-11-26,2
+46,UAB,South Florida,202,2022-11-21,1
+47,LSU,Wofford,165,2022-11-27,2
+47,LSU,Akron,127,2022-11-22,2
+48,Utah State,Oral Roberts,104,2022-11-22,1
+49,Oklahoma,Nebraska,111,2022-11-24,1
+50,TCU,California,201,2022-11-25,1
+51,Ole Miss,Stanford,60,2022-11-24,1
+52,Missouri,Coastal Carolina,186,2022-11-23,2
+52,Missouri,Houston Christian,335,2022-11-26,2
+53,Iowa State,Villanova,32,2022-11-24,1
+54,Texas A&M,DePaul,84,2022-11-25,1
+55,Colorado,Yale,139,2022-11-27,1
+56,Syracuse,Bryant,177,2022-11-26,2
+56,Syracuse,Richmond,90,2022-11-21,2
+57,Arizona State,Grambling,311,2022-11-22,2
+57,Arizona State,Alcorn State,263,2022-11-27,2
+58,Northwestern,Liberty,99,2022-11-22,1
+59,BYU,USC,62,2022-11-23,1
+60,Stanford,Ole Miss,51,2022-11-24,1
+62,USC,BYU,59,2022-11-23,1
+63,Cincinnati,Arizona,11,2022-11-21,1
+64,Tulane,Nevada,100,2022-11-21,1
+65,Notre Dame,Bowling Green,270,2022-11-22,2
+65,Notre Dame,St. Bonaventure,132,2022-11-25,2
+66,Kansas State,Rhode Island,173,2022-11-21,1
+67,Marquette,Chicago State,358,2022-11-26,2
+67,Marquette,Mississippi State,27,2022-11-21,2
+68,Providence,Columbia,347,2022-11-26,2
+68,Providence,Merrimack,319,2022-11-23,2
+69,NC State,Kansas,10,2022-11-23,1
+70,UCF,Miami,44,2022-11-27,2
+70,UCF,Evansville,322,2022-11-23,2
+71,Drake,Louisiana,142,2022-11-26,2
+71,Drake,Tarleton,162,2022-11-21,2
+72,Clemson,Iowa,15,2022-11-25,2
+72,Clemson,Loyola Maryland,227,2022-11-21,2
+74,Boise State,Utah Valley,146,2022-11-26,1
+75,Utah,St. Thomas - Minnesota,217,2022-11-26,2
+75,Utah,Georgia Tech,110,2022-11-21,2
+76,Florida Atlantic,Albany,303,2022-11-26,1
+78,Vanderbilt,Saint Mary's,20,2022-11-23,1
+79,Wake Forest,Hampton,339,2022-11-26,2
+79,Wake Forest,South Carolina State,348,2022-11-23,2
+81,James Madison,South Dakota State,134,2022-11-26,2
+81,James Madison,Valparaiso,254,2022-11-27,2
+82,Iona,Santa Clara,102,2022-11-26,1
+83,Towson,Coppin State,294,2022-11-22,4
+83,Towson,South Alabama,191,2022-11-26,4
+83,Towson,Mercer,170,2022-11-27,4
+83,Towson,Fairfield,236,2022-11-25,4
+84,DePaul,Texas A&M,54,2022-11-25,1
+85,Colorado State,Mississippi Valley State,361,2022-11-26,1
+86,Butler,Tennessee,7,2022-11-23,1
+87,Kent State,Charleston,128,2022-11-23,2
+87,Kent State,Houston,2,2022-11-26,2
+88,Wyoming,Boston College,114,2022-11-21,1
+89,Temple,St. John's,33,2022-11-21,2
+89,Temple,Drexel,199,2022-11-27,2
+90,Richmond,Syracuse,56,2022-11-21,1
+91,San Francisco,Wichita State,92,2022-11-22,2
+91,San Francisco,Davidson,121,2022-11-25,2
+92,Wichita State,San Francisco,91,2022-11-22,2
+92,Wichita State,Tarleton,162,2022-11-26,2
+93,VCU,Kennesaw State,218,2022-11-26,1
+94,Southern Illinois,UNLV,98,2022-11-22,1
+95,Western Kentucky,Illinois State,256,2022-11-22,2
+95,Western Kentucky,South Carolina State,348,2022-11-26,2
+96,Grand Canyon,Pepperdine,154,2022-11-26,2
+96,Grand Canyon,Northern Iowa,141,2022-11-22,2
+97,Colgate,Pennsylvania,185,2022-11-26,4
+97,Colgate,Hartford,353,2022-11-27,4
+97,Colgate,Delaware,190,2022-11-25,4
+97,Colgate,Monmouth,283,2022-11-21,4
+98,UNLV,Southern Illinois,94,2022-11-22,1
+99,Liberty,Northwestern,58,2022-11-22,2
+99,Liberty,Delaware State,362,2022-11-26,2
+100,Nevada,Tulane,64,2022-11-21,1
+101,Missouri State,UNC Wilmington,219,2022-11-25,1
+102,Santa Clara,Iona,82,2022-11-26,1
+103,UC Santa Barbara,North Alabama,324,2022-11-23,2
+103,UC Santa Barbara,Hampton,339,2022-11-21,2
+104,Oral Roberts,Utah State,48,2022-11-22,1
+105,Florida State,Siena,248,2022-11-24,2
+105,Florida State,Mercer,170,2022-11-21,2
+106,UNC Greensboro,Hofstra,131,2022-11-26,4
+106,UNC Greensboro,UMBC,305,2022-11-22,4
+106,UNC Greensboro,Stephen F. Austin,156,2022-11-27,4
+106,UNC Greensboro,Montana State,164,2022-11-25,4
+107,Georgia,East Tennessee State,229,2022-11-27,2
+107,Georgia,Saint Joseph's,175,2022-11-21,2
+108,Murray State,Chattanooga,158,2022-11-26,1
+109,Duquesne,North Florida,228,2022-11-21,2
+109,Duquesne,Alabama State,350,2022-11-23,2
+110,Georgia Tech,North Alabama,324,2022-11-26,2
+110,Georgia Tech,Utah,75,2022-11-21,2
+111,Nebraska,Oklahoma,49,2022-11-24,1
+112,New Mexico,Jacksonville State,234,2022-11-25,3
+112,New Mexico,North Dakota State,230,2022-11-26,3
+112,New Mexico,Northern Colorado,231,2022-11-27,3
+113,UC Irvine,Nicholls,241,2022-11-25,1
+114,Boston College,Rhode Island,173,2022-11-27,2
+114,Boston College,Wyoming,88,2022-11-21,2
+115,George Mason,Queens University,209,2022-11-26,1
+116,Indiana State,Kansas City,290,2022-11-22,1
+117,Marshall,Morehead State,238,2022-11-26,2
+117,Marshall,Chicago State,358,2022-11-21,2
+118,Loyola Chicago,Harvard,206,2022-11-25,1
+119,Sam Houston,Northern Illinois,295,2022-11-22,1
+120,Washington,Fresno State,125,2022-11-23,1
+121,Davidson,San Francisco,91,2022-11-25,1
+122,Bradley,Auburn,18,2022-11-22,2
+122,Bradley,Merrimack,319,2022-11-26,2
+123,Louisville,Arkansas,14,2022-11-21,1
+124,Abilene Christian,Weber State,253,2022-11-22,4
+124,Abilene Christian,UC Riverside,205,2022-11-23,4
+124,Abilene Christian,Wright State,193,2022-11-21,4
+124,Abilene Christian,Northern Arizona,223,2022-11-27,4
+125,Fresno State,Washington,120,2022-11-23,1
+126,Pittsburgh,William & Mary,327,2022-11-25,2
+126,Pittsburgh,Fairleigh Dickinson,346,2022-11-22,2
+127,Akron,LSU,47,2022-11-22,1
+128,Charleston,Kent State,87,2022-11-23,1
+129,Georgetown,UMBC,305,2022-11-26,2
+129,Georgetown,American University,302,2022-11-23,2
+130,Middle Tennessee,Montana State,164,2022-11-27,3
+130,Middle Tennessee,Hofstra,131,2022-11-25,3
+130,Middle Tennessee,Stephen F. Austin,156,2022-11-26,3
+131,Hofstra,Quinnipiac,200,2022-11-27,3
+131,Hofstra,Middle Tennessee,130,2022-11-25,3
+131,Hofstra,UNC Greensboro,106,2022-11-26,3
+132,St. Bonaventure,Southern Indiana,198,2022-11-22,2
+132,St. Bonaventure,Notre Dame,65,2022-11-25,2
+133,Vermont,Yale,139,2022-11-22,2
+133,Vermont,Ball State,216,2022-11-25,2
+134,South Dakota State,Valparaiso,254,2022-11-25,2
+134,South Dakota State,James Madison,81,2022-11-26,2
+136,Portland,North Carolina,16,2022-11-24,1
+137,Loyola Marymount,Morgan State,285,2022-11-23,2
+137,Loyola Marymount,Bellarmine,220,2022-11-25,2
+138,Princeton,Army,307,2022-11-24,1
+139,Yale,Vermont,133,2022-11-22,2
+139,Yale,Colorado,55,2022-11-27,2
+141,Northern Iowa,Grand Canyon,96,2022-11-22,2
+141,Northern Iowa,Northern Illinois,295,2022-11-26,2
+142,Louisiana,Drake,71,2022-11-26,2
+142,Louisiana,SMU,147,2022-11-22,2
+143,Charlotte,Presbyterian,297,2022-11-26,2
+143,Charlotte,Detroit Mercy,232,2022-11-23,2
+144,Louisiana Tech,Samford,150,2022-11-25,3
+144,Louisiana Tech,UL Monroe,272,2022-11-21,3
+144,Louisiana Tech,Alabama A&M,340,2022-11-23,3
+145,South Carolina,South Carolina Upstate,300,2022-11-25,1
+146,Utah Valley,Boise State,74,2022-11-26,1
+147,SMU,Louisiana,142,2022-11-22,2
+147,SMU,Lamar,357,2022-11-27,2
+148,Minnesota,California Baptist,160,2022-11-21,1
+149,Belmont,Howard,257,2022-11-21,2
+149,Belmont,Georgia State,224,2022-11-27,2
+150,Samford,Louisiana Tech,144,2022-11-25,2
+150,Samford,Valparaiso,254,2022-11-23,2
+151,New Mexico State,San Diego,152,2022-11-25,1
+152,San Diego,New Mexico State,151,2022-11-25,1
+153,Hawai'i,Sacramento State,252,2022-11-25,1
+154,Pepperdine,Grand Canyon,96,2022-11-26,2
+154,Pepperdine,UCLA,13,2022-11-23,2
+155,Old Dominion,East Carolina,221,2022-11-26,1
+156,Stephen F. Austin,Quinnipiac,200,2022-11-25,3
+156,Stephen F. Austin,UNC Greensboro,106,2022-11-27,3
+156,Stephen F. Austin,Middle Tennessee,130,2022-11-26,3
+157,UMass Lowell,Brown,245,2022-11-23,2
+157,UMass Lowell,Stonehill,345,2022-11-27,2
+158,Chattanooga,Murray State,108,2022-11-26,2
+158,Chattanooga,Lipscomb,176,2022-11-23,2
+159,Southern Utah,Texas State,195,2022-11-25,1
+160,California Baptist,Central Michigan,296,2022-11-26,2
+160,California Baptist,Minnesota,148,2022-11-21,2
+161,Northern Kentucky,Tennessee Tech,337,2022-11-27,2
+161,Northern Kentucky,Florida Gulf Coast,214,2022-11-21,2
+162,Tarleton,Wichita State,92,2022-11-26,2
+162,Tarleton,Drake,71,2022-11-21,2
+164,Montana State,Quinnipiac,200,2022-11-26,3
+164,Montana State,Middle Tennessee,130,2022-11-27,3
+164,Montana State,UNC Greensboro,106,2022-11-25,3
+165,Wofford,LSU,47,2022-11-27,1
+166,Long Beach State,Oakland,268,2022-11-25,1
+167,Tulsa,Oklahoma State,40,2022-11-25,1
+168,Purdue Fort Wayne,Eastern Michigan,306,2022-11-22,1
+169,Campbell,Jacksonville,179,2022-11-23,2
+169,Campbell,Stetson,251,2022-11-27,2
+170,Mercer,Fairfield,236,2022-11-26,4
+170,Mercer,Towson,83,2022-11-27,4
+170,Mercer,Robert Morris,289,2022-11-25,4
+170,Mercer,Florida State,105,2022-11-21,4
+171,UC Davis,Milwaukee,321,2022-11-26,3
+171,UC Davis,Southeast Missouri State,287,2022-11-27,3
+171,UC Davis,Sacramento State,252,2022-11-22,3
+172,UTEP,Cal State Bakersfield,271,2022-11-23,3
+172,UTEP,Texas A&M-Corpus Christi,192,2022-11-25,3
+172,UTEP,Alcorn State,263,2022-11-22,3
+173,Rhode Island,Boston College,114,2022-11-27,2
+173,Rhode Island,Kansas State,66,2022-11-21,2
+175,Saint Joseph's,Georgia,107,2022-11-21,1
+176,Lipscomb,Chattanooga,158,2022-11-23,1
+177,Bryant,Syracuse,56,2022-11-26,1
+178,Cal State Fullerton,Utah Tech,255,2022-11-26,2
+178,Cal State Fullerton,North Dakota,341,2022-11-27,2
+179,Jacksonville,Campbell,169,2022-11-23,1
+180,Youngstown State,Western Illinois,288,2022-11-26,1
+181,Winthrop,Southern Miss,258,2022-11-22,1
+183,Gardner-Webb,North Carolina Central,243,2022-11-26,1
+184,UNC Asheville,Western Carolina,267,2022-11-26,1
+185,Pennsylvania,Delaware,190,2022-11-27,4
+185,Pennsylvania,Lafayette,304,2022-11-22,4
+185,Pennsylvania,Colgate,97,2022-11-26,4
+185,Pennsylvania,Hartford,353,2022-11-25,4
+186,Coastal Carolina,Missouri,52,2022-11-23,2
+186,Coastal Carolina,South Dakota,188,2022-11-26,2
+187,La Salle,Binghamton,282,2022-11-26,1
+188,South Dakota,Coastal Carolina,186,2022-11-26,2
+188,South Dakota,Long Island University,344,2022-11-22,2
+189,Navy,Mount St. Mary's,222,2022-11-26,1
+190,Delaware,Pennsylvania,185,2022-11-27,3
+190,Delaware,Colgate,97,2022-11-25,3
+190,Delaware,Hartford,353,2022-11-26,3
+191,South Alabama,Towson,83,2022-11-26,3
+191,South Alabama,Robert Morris,289,2022-11-27,3
+191,South Alabama,Evansville,322,2022-11-25,3
+192,Texas A&M-Corpus Christi,Cal State Bakersfield,271,2022-11-22,3
+192,Texas A&M-Corpus Christi,Alcorn State,263,2022-11-23,3
+192,Texas A&M-Corpus Christi,UTEP,172,2022-11-25,3
+193,Wright State,Abilene Christian,124,2022-11-21,3
+193,Wright State,Weber State,253,2022-11-23,3
+193,Wright State,UC Riverside,205,2022-11-22,3
+194,Ohio,Alabama State,350,2022-11-27,2
+194,Ohio,Eastern Illinois,352,2022-11-25,2
+195,Texas State,California,201,2022-11-21,2
+195,Texas State,Southern Utah,159,2022-11-25,2
+196,Fordham,Stonehill,345,2022-11-22,3
+196,Fordham,Harvard,206,2022-11-27,3
+196,Fordham,Holy Cross,332,2022-11-21,3
+197,High Point,Central Michigan,296,2022-11-21,1
+198,Southern Indiana,St. Bonaventure,132,2022-11-22,2
+198,Southern Indiana,Bowling Green,270,2022-11-26,2
+199,Drexel,Temple,89,2022-11-27,2
+199,Drexel,UT Arlington,277,2022-11-21,2
+200,Quinnipiac,Montana State,164,2022-11-26,3
+200,Quinnipiac,Hofstra,131,2022-11-27,3
+200,Quinnipiac,Stephen F. Austin,156,2022-11-25,3
+201,California,TCU,50,2022-11-25,2
+201,California,Texas State,195,2022-11-21,2
+202,South Florida,St. Francis Brooklyn,349,2022-11-25,2
+202,South Florida,UAB,46,2022-11-21,2
+204,Pacific,Idaho,355,2022-11-25,2
+204,Pacific,Mount St. Mary's,222,2022-11-22,2
+205,UC Riverside,Wright State,193,2022-11-22,3
+205,UC Riverside,Abilene Christian,124,2022-11-23,3
+205,UC Riverside,Weber State,253,2022-11-21,3
+206,Harvard,Fordham,196,2022-11-27,2
+206,Harvard,Loyola Chicago,118,2022-11-25,2
+207,Cornell,Canisius,291,2022-11-22,2
+207,Cornell,Monmouth,283,2022-11-25,2
+208,Boston University,Southeast Missouri State,287,2022-11-26,2
+208,Boston University,Milwaukee,321,2022-11-27,2
+209,Queens University,George Mason,115,2022-11-26,1
+210,Rider,Rutgers,45,2022-11-22,1
+211,Montana,Air Force,260,2022-11-27,1
+212,Buffalo,Canisius,291,2022-11-27,1
+213,Appalachian State,East Tennessee State,229,2022-11-23,1
+214,Florida Gulf Coast,Northern Kentucky,161,2022-11-21,1
+215,George Washington,UC San Diego,314,2022-11-22,2
+215,George Washington,New Hampshire,318,2022-11-26,2
+216,Ball State,Vermont,133,2022-11-25,1
+217,St. Thomas - Minnesota,Milwaukee,321,2022-11-23,2
+217,St. Thomas - Minnesota,Utah,75,2022-11-26,2
+218,Kennesaw State,VCU,93,2022-11-26,1
+219,UNC Wilmington,Missouri State,101,2022-11-25,1
+220,Bellarmine,Loyola Marymount,137,2022-11-25,3
+220,Bellarmine,UCLA,13,2022-11-27,3
+220,Bellarmine,Duke,9,2022-11-21,3
+221,East Carolina,Old Dominion,155,2022-11-26,1
+222,Mount St. Mary's,Pacific,204,2022-11-22,2
+222,Mount St. Mary's,Navy,189,2022-11-26,2
+223,Northern Arizona,Texas,1,2022-11-21,3
+223,Northern Arizona,UT Rio Grande Valley,338,2022-11-22,3
+223,Northern Arizona,Abilene Christian,124,2022-11-27,3
+224,Georgia State,Belmont,149,2022-11-27,1
+225,Saint Peter's,Fairleigh Dickinson,346,2022-11-27,1
+226,Southern,Loyola Maryland,227,2022-11-25,1
+227,Loyola Maryland,Clemson,72,2022-11-21,2
+227,Loyola Maryland,Southern,226,2022-11-25,2
+228,North Florida,Duquesne,109,2022-11-21,2
+228,North Florida,Kentucky,4,2022-11-23,2
+229,East Tennessee State,Georgia,107,2022-11-27,2
+229,East Tennessee State,Appalachian State,213,2022-11-23,2
+230,North Dakota State,Northern Colorado,231,2022-11-25,3
+230,North Dakota State,New Mexico,112,2022-11-26,3
+230,North Dakota State,Jacksonville State,234,2022-11-27,3
+231,Northern Colorado,New Mexico,112,2022-11-27,3
+231,Northern Colorado,North Dakota State,230,2022-11-25,3
+231,Northern Colorado,Jacksonville State,234,2022-11-26,3
+232,Detroit Mercy,Charlotte,143,2022-11-23,1
+233,Austin Peay,Bucknell,259,2022-11-22,2
+233,Austin Peay,Howard,257,2022-11-26,2
+234,Jacksonville State,Elon,325,2022-11-22,4
+234,Jacksonville State,Northern Colorado,231,2022-11-26,4
+234,Jacksonville State,North Dakota State,230,2022-11-27,4
+234,Jacksonville State,New Mexico,112,2022-11-25,4
+235,Rice,Houston Christian,335,2022-11-21,1
+236,Fairfield,Mercer,170,2022-11-26,3
+236,Fairfield,Towson,83,2022-11-25,3
+236,Fairfield,Evansville,322,2022-11-27,3
+237,Eastern Washington,Florida International,242,2022-11-27,2
+237,Eastern Washington,Stony Brook,310,2022-11-25,2
+238,Morehead State,Marshall,117,2022-11-26,1
+240,Oregon State,Duke,9,2022-11-24,1
+241,Nicholls,UC Irvine,113,2022-11-25,1
+242,Florida International,Eastern Washington,237,2022-11-27,2
+242,Florida International,Stony Brook,310,2022-11-23,2
+243,North Carolina Central,Gardner-Webb,183,2022-11-26,1
+244,SIU Edwardsville,Kansas City,290,2022-11-26,1
+245,Brown,UMass Lowell,157,2022-11-23,2
+245,Brown,Maine,330,2022-11-27,2
+246,Niagara,St. John's,33,2022-11-26,1
+248,Siena,Florida State,105,2022-11-24,1
+249,Radford,William & Mary,327,2022-11-23,2
+249,Radford,Elon,325,2022-11-27,2
+250,Wagner,NJIT,342,2022-11-27,1
+251,Stetson,Campbell,169,2022-11-27,1
+252,Sacramento State,UC Davis,171,2022-11-22,2
+252,Sacramento State,Hawai'i,153,2022-11-25,2
+253,Weber State,Wright State,193,2022-11-23,3
+253,Weber State,UC Riverside,205,2022-11-21,3
+253,Weber State,Abilene Christian,124,2022-11-22,3
+254,Valparaiso,South Dakota State,134,2022-11-25,3
+254,Valparaiso,James Madison,81,2022-11-27,3
+254,Valparaiso,Samford,150,2022-11-23,3
+255,Utah Tech,North Dakota,341,2022-11-25,2
+255,Utah Tech,Cal State Fullerton,178,2022-11-26,2
+256,Illinois State,Western Kentucky,95,2022-11-22,1
+257,Howard,Belmont,149,2022-11-21,2
+257,Howard,Austin Peay,233,2022-11-26,2
+258,Southern Miss,Winthrop,181,2022-11-22,1
+259,Bucknell,Marist,315,2022-11-26,2
+259,Bucknell,Austin Peay,233,2022-11-22,2
+260,Air Force,South Carolina Upstate,300,2022-11-21,3
+260,Air Force,Mississippi Valley State,361,2022-11-23,3
+260,Air Force,Montana,211,2022-11-27,3
+261,Portland State,Gonzaga,3,2022-11-25,1
+263,Alcorn State,Arizona State,57,2022-11-27,4
+263,Alcorn State,Cal State Bakersfield,271,2022-11-25,4
+263,Alcorn State,UTEP,172,2022-11-22,4
+263,Alcorn State,Texas A&M-Corpus Christi,192,2022-11-23,4
+264,Northeastern,Manhattan,293,2022-11-24,1
+265,Denver,IUPUI,363,2022-11-23,3
+265,Denver,The Citadel,275,2022-11-24,3
+265,Denver,New Orleans,329,2022-11-25,3
+267,Western Carolina,UNC Asheville,184,2022-11-26,1
+268,Oakland,Long Beach State,166,2022-11-25,1
+269,Cleveland State,Chicago State,358,2022-11-23,2
+269,Cleveland State,Western Michigan,276,2022-11-26,2
+270,Bowling Green,Southern Indiana,198,2022-11-26,2
+270,Bowling Green,Notre Dame,65,2022-11-22,2
+271,Cal State Bakersfield,Texas A&M-Corpus Christi,192,2022-11-22,3
+271,Cal State Bakersfield,UTEP,172,2022-11-23,3
+271,Cal State Bakersfield,Alcorn State,263,2022-11-25,3
+272,UL Monroe,Louisiana Tech,144,2022-11-21,2
+272,UL Monroe,Omaha,333,2022-11-25,2
+273,Arkansas State,UT Martin,299,2022-11-22,2
+273,Arkansas State,Prairie View A&M,280,2022-11-25,2
+275,The Citadel,New Orleans,329,2022-11-23,3
+275,The Citadel,Denver,265,2022-11-24,3
+275,The Citadel,IUPUI,363,2022-11-25,3
+276,Western Michigan,Cleveland State,269,2022-11-26,1
+277,UT Arlington,Drexel,199,2022-11-21,1
+278,Cal Poly,Idaho,355,2022-11-23,1
+279,UIC,Holy Cross,332,2022-11-22,3
+279,UIC,Green Bay,356,2022-11-26,3
+279,UIC,Stonehill,345,2022-11-21,3
+280,Prairie View A&M,Arkansas State,273,2022-11-25,3
+280,Prairie View A&M,UTSA,301,2022-11-22,3
+280,Prairie View A&M,Oklahoma State,40,2022-11-27,3
+281,Dartmouth,Incarnate Word,359,2022-11-25,2
+281,Dartmouth,UTSA,301,2022-11-27,2
+282,Binghamton,Columbia,347,2022-11-23,2
+282,Binghamton,La Salle,187,2022-11-26,2
+283,Monmouth,Lehigh,284,2022-11-27,3
+283,Monmouth,Cornell,207,2022-11-25,3
+283,Monmouth,Colgate,97,2022-11-21,3
+284,Lehigh,St. Francis (PA),313,2022-11-21,2
+284,Lehigh,Monmouth,283,2022-11-27,2
+285,Morgan State,Loyola Marymount,137,2022-11-23,1
+286,Sacred Heart,NJIT,342,2022-11-22,1
+287,Southeast Missouri State,UC Davis,171,2022-11-27,2
+287,Southeast Missouri State,Boston University,208,2022-11-26,2
+288,Western Illinois,Youngstown State,180,2022-11-26,2
+288,Western Illinois,UT Rio Grande Valley,338,2022-11-21,2
+289,Robert Morris,Evansville,322,2022-11-26,3
+289,Robert Morris,South Alabama,191,2022-11-27,3
+289,Robert Morris,Mercer,170,2022-11-25,3
+290,Kansas City,SIU Edwardsville,244,2022-11-26,2
+290,Kansas City,Indiana State,116,2022-11-22,2
+291,Canisius,Buffalo,212,2022-11-27,2
+291,Canisius,Cornell,207,2022-11-22,2
+292,Miami (OH),Little Rock,326,2022-11-26,1
+293,Manhattan,Northeastern,264,2022-11-24,1
+294,Coppin State,Towson,83,2022-11-22,2
+294,Coppin State,Maryland,22,2022-11-25,2
+295,Northern Illinois,Sam Houston,119,2022-11-22,2
+295,Northern Illinois,Northern Iowa,141,2022-11-26,2
+296,Central Michigan,High Point,197,2022-11-21,2
+296,Central Michigan,California Baptist,160,2022-11-26,2
+297,Presbyterian,Albany,303,2022-11-22,2
+297,Presbyterian,Charlotte,143,2022-11-26,2
+299,UT Martin,Arkansas State,273,2022-11-22,1
+300,South Carolina Upstate,Air Force,260,2022-11-21,2
+300,South Carolina Upstate,South Carolina,145,2022-11-25,2
+301,UTSA,Dartmouth,281,2022-11-27,3
+301,UTSA,Prairie View A&M,280,2022-11-22,3
+301,UTSA,Grambling,311,2022-11-25,3
+302,American University,Georgetown,129,2022-11-23,2
+302,American University,St. Francis (PA),313,2022-11-26,2
+303,Albany,Florida Atlantic,76,2022-11-26,2
+303,Albany,Presbyterian,297,2022-11-22,2
+304,Lafayette,Pennsylvania,185,2022-11-22,2
+304,Lafayette,Penn State,31,2022-11-25,2
+305,UMBC,Georgetown,129,2022-11-26,2
+305,UMBC,UNC Greensboro,106,2022-11-22,2
+306,Eastern Michigan,UC San Diego,314,2022-11-27,2
+306,Eastern Michigan,Purdue Fort Wayne,168,2022-11-22,2
+307,Army,Princeton,138,2022-11-24,1
+309,Jackson State,Michigan,42,2022-11-23,2
+309,Jackson State,Indiana,8,2022-11-25,2
+310,Stony Brook,Eastern Washington,237,2022-11-25,2
+310,Stony Brook,Florida International,242,2022-11-23,2
+311,Grambling,Incarnate Word,359,2022-11-27,3
+311,Grambling,Arizona State,57,2022-11-22,3
+311,Grambling,UTSA,301,2022-11-25,3
+313,St. Francis (PA),American University,302,2022-11-26,2
+313,St. Francis (PA),Lehigh,284,2022-11-21,2
+314,UC San Diego,George Washington,215,2022-11-22,2
+314,UC San Diego,Eastern Michigan,306,2022-11-27,2
+315,Marist,Maryland-Eastern Shore,320,2022-11-22,2
+315,Marist,Bucknell,259,2022-11-26,2
+316,Bethune-Cookman,Charleston Southern,323,2022-11-21,3
+316,Bethune-Cookman,Idaho State,328,2022-11-26,3
+316,Bethune-Cookman,Northwestern State,336,2022-11-27,3
+317,Central Arkansas,Northwestern State,336,2022-11-26,2
+317,Central Arkansas,Idaho State,328,2022-11-27,2
+318,New Hampshire,George Washington,215,2022-11-26,1
+319,Merrimack,Bradley,122,2022-11-26,2
+319,Merrimack,Providence,68,2022-11-23,2
+320,Maryland-Eastern Shore,Virginia,5,2022-11-25,2
+320,Maryland-Eastern Shore,Marist,315,2022-11-22,2
+321,Milwaukee,St. Thomas - Minnesota,217,2022-11-23,3
+321,Milwaukee,UC Davis,171,2022-11-26,3
+321,Milwaukee,Boston University,208,2022-11-27,3
+322,Evansville,Fairfield,236,2022-11-27,4
+322,Evansville,UCF,70,2022-11-23,4
+322,Evansville,South Alabama,191,2022-11-25,4
+322,Evansville,Robert Morris,289,2022-11-26,4
+323,Charleston Southern,Virginia Tech,30,2022-11-25,2
+323,Charleston Southern,Bethune-Cookman,316,2022-11-21,2
+324,North Alabama,Hampton,339,2022-11-22,3
+324,North Alabama,Georgia Tech,110,2022-11-26,3
+324,North Alabama,UC Santa Barbara,103,2022-11-23,3
+325,Elon,Jacksonville State,234,2022-11-22,2
+325,Elon,Radford,249,2022-11-27,2
+326,Little Rock,Miami (OH),292,2022-11-26,2
+326,Little Rock,Indiana,8,2022-11-23,2
+327,William & Mary,Radford,249,2022-11-23,2
+327,William & Mary,Pittsburgh,126,2022-11-25,2
+328,Idaho State,Central Arkansas,317,2022-11-27,3
+328,Idaho State,Lindenwood,343,2022-11-23,3
+328,Idaho State,Bethune-Cookman,316,2022-11-26,3
+329,New Orleans,The Citadel,275,2022-11-23,3
+329,New Orleans,IUPUI,363,2022-11-24,3
+329,New Orleans,Denver,265,2022-11-25,3
+330,Maine,Central Connecticut,334,2022-11-23,2
+330,Maine,Brown,245,2022-11-27,2
+332,Holy Cross,UIC,279,2022-11-22,2
+332,Holy Cross,Fordham,196,2022-11-21,2
+333,Omaha,Iowa,15,2022-11-21,2
+333,Omaha,UL Monroe,272,2022-11-25,2
+334,Central Connecticut,Rutgers,45,2022-11-26,2
+334,Central Connecticut,Maine,330,2022-11-23,2
+335,Houston Christian,Rice,235,2022-11-21,2
+335,Houston Christian,Missouri,52,2022-11-26,2
+336,Northwestern State,Bethune-Cookman,316,2022-11-27,2
+336,Northwestern State,Central Arkansas,317,2022-11-26,2
+337,Tennessee Tech,Northern Kentucky,161,2022-11-27,1
+338,UT Rio Grande Valley,Texas,1,2022-11-26,3
+338,UT Rio Grande Valley,Western Illinois,288,2022-11-21,3
+338,UT Rio Grande Valley,Northern Arizona,223,2022-11-22,3
+339,Hampton,UC Santa Barbara,103,2022-11-21,3
+339,Hampton,Wake Forest,79,2022-11-26,3
+339,Hampton,North Alabama,324,2022-11-22,3
+340,Alabama A&M,Louisiana Tech,144,2022-11-23,1
+341,North Dakota,Utah Tech,255,2022-11-25,2
+341,North Dakota,Cal State Fullerton,178,2022-11-27,2
+342,NJIT,Wagner,250,2022-11-27,2
+342,NJIT,Sacred Heart,286,2022-11-22,2
+343,Lindenwood,Idaho State,328,2022-11-23,2
+343,Lindenwood,Illinois,24,2022-11-25,2
+344,Long Island University,South Dakota,188,2022-11-22,1
+345,Stonehill,UIC,279,2022-11-21,3
+345,Stonehill,Fordham,196,2022-11-22,3
+345,Stonehill,UMass Lowell,157,2022-11-27,3
+346,Fairleigh Dickinson,Saint Peter's,225,2022-11-27,2
+346,Fairleigh Dickinson,Pittsburgh,126,2022-11-22,2
+347,Columbia,Providence,68,2022-11-26,2
+347,Columbia,Binghamton,282,2022-11-23,2
+348,South Carolina State,Western Kentucky,95,2022-11-26,2
+348,South Carolina State,Wake Forest,79,2022-11-23,2
+349,St. Francis Brooklyn,South Florida,202,2022-11-25,2
+349,St. Francis Brooklyn,Miami,44,2022-11-23,2
+350,Alabama State,Ohio,194,2022-11-27,3
+350,Alabama State,Duquesne,109,2022-11-23,3
+350,Alabama State,Eastern Illinois,352,2022-11-26,3
+351,McNeese,Baylor,6,2022-11-23,1
+352,Eastern Illinois,Ohio,194,2022-11-25,2
+352,Eastern Illinois,Alabama State,350,2022-11-26,2
+353,Hartford,Pennsylvania,185,2022-11-25,3
+353,Hartford,Colgate,97,2022-11-27,3
+353,Hartford,Delaware,190,2022-11-26,3
+355,Idaho,Cal Poly,278,2022-11-23,2
+355,Idaho,Pacific,204,2022-11-25,2
+356,Green Bay,UIC,279,2022-11-26,1
+357,Lamar,SMU,147,2022-11-27,1
+358,Chicago State,Marshall,117,2022-11-21,3
+358,Chicago State,Cleveland State,269,2022-11-23,3
+358,Chicago State,Marquette,67,2022-11-26,3
+359,Incarnate Word,Dartmouth,281,2022-11-25,2
+359,Incarnate Word,Grambling,311,2022-11-27,2
+361,Mississippi Valley State,Air Force,260,2022-11-23,2
+361,Mississippi Valley State,Colorado State,85,2022-11-26,2
+362,Delaware State,Liberty,99,2022-11-26,1
+363,IUPUI,New Orleans,329,2022-11-24,3
+363,IUPUI,The Citadel,275,2022-11-25,3
+363,IUPUI,Denver,265,2022-11-23,3
