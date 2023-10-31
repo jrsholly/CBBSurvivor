@@ -82,10 +82,12 @@ def standardizeTeamNames(kenpom_rankings_df):
 def main():
     print('Starting!')
     tz = pytz.timezone('US/Central')
-    start_date_str = datetime.datetime.now(tz).strftime('%Y%m%d')
-    start_date = datetime.datetime.strptime(start_date_str, '%Y%m%d').date()
+    # start_date_str = datetime.datetime.now(tz).strftime('%Y%m%d')
+    # start_date = datetime.datetime.strptime(start_date_str, '%Y%m%d').date()
     # Set end date to last day of week you want to run for
-    end_date = datetime.datetime.strptime("20221127", '%Y%m%d').date()
+    start_date = datetime.datetime.strptime("20231106", '%Y%m%d').date()
+    # Set end date to last day of week you want to run for
+    end_date = datetime.datetime.strptime("20231112", '%Y%m%d').date()
     print(f'Getting schedule for {start_date} - {end_date}')
     schedule_df = getScheduleForDateRange(start_date, end_date)
     schedule_df = cleanup(schedule_df)
