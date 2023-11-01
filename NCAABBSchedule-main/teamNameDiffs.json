@@ -1,101 +1,402 @@
 [
-    {"sched": "Alabama State", "kp": "Alabama St."},
-    {"sched": "Alcorn State", "kp": "Alcorn St."},
-    {"sched": "American University", "kp": "American"},
-    {"sched": "Appalachian State", "kp": "Appalachian St."},
-    {"sched": "Arizona State", "kp": "Arizona St."},
-    {"sched": "Arkansas State", "kp": "Arkansas St."},
-    {"sched": "Arkansas-Pine Bluff", "kp": "Arkansas Pine Bluff"},
-    {"sched": "Ball State", "kp": "Ball St."},
-    {"sched": "Bethune-Cookman", "kp": "Bethune Cookman"},
-    {"sched": "Boise State", "kp": "Boise St."},
-    {"sched": "Cal State Bakersfield", "kp": "Cal St. Bakersfield"},
-    {"sched": "Cal State Fullerton", "kp": "Cal St. Fullerton"},
-    {"sched": "Cal State Northridge", "kp": "Cal St. Northridge"},
-    {"sched": "California Baptist", "kp": "Cal Baptist"},
-    {"sched": "Chicago State", "kp": "Chicago St."},
-    {"sched": "Cleveland State", "kp": "Cleveland St."},
-    {"sched": "Colorado State", "kp": "Colorado St."},
-    {"sched": "Coppin State", "kp": "Coppin St."},
-    {"sched": "CSU Bakersfield", "kp": "Cal St. Bakersfield"},
-    {"sched": "CSU Fullerton", "kp": "Cal St. Fullerton"},
-    {"sched": "CSU Northridge", "kp": "Cal St. Northridge"},
-    {"sched": "Delaware State", "kp": "Delaware St."},
-    {"sched": "East Tennessee State", "kp": "East Tennessee St."},
-    {"sched": "Florida International", "kp": "FIU"},
-    {"sched": "Florida State", "kp": "Florida St."},
-    {"sched": "Fresno State", "kp": "Fresno St."},
-    {"sched": "Gardner-Webb", "kp": "Gardner Webb"},
-    {"sched": "Georgia State", "kp": "Georgia St."},
-    {"sched": "Grambling", "kp": "Grambling St."},
-    {"sched": "Hawai'i", "kp": "Hawaii"},
-    {"sched": "Idaho State", "kp": "Idaho St."},
-    {"sched": "Illinois State", "kp": "Illinois St."},
-    {"sched": "Indiana State", "kp": "Indiana St."},
-    {"sched": "Iowa State", "kp": "Iowa St."},
-    {"sched": "Jackson State", "kp": "Jackson St."},
-    {"sched": "Jacksonville State", "kp": "Jacksonville St."},
-    {"sched": "Kansas City", "kp": "UMKC"},
-    {"sched": "Kansas State", "kp": "Kansas St."},
-    {"sched": "Kennesaw State", "kp": "Kennesaw St."},
-    {"sched": "Kent State", "kp": "Kent St."},
-    {"sched": "Long Beach State", "kp": "Long Beach St."},
-    {"sched": "Long Island University", "kp": "LIU"},
-    {"sched": "Loyola Maryland", "kp": "Loyola MD"},
-    {"sched": "Maryland-Eastern Shore", "kp": "Maryland Eastern Shore"},
-    {"sched": "UMass", "kp": "Massachusetts"},
-    {"sched": "McNeese", "kp": "McNeese St."},
-    {"sched": "Miami", "kp": "Miami FL"},
-    {"sched": "Miami (OH)", "kp": "Miami OH"},
-    {"sched": "Michigan State", "kp": "Michigan St."},
-    {"sched": "Mississippi State", "kp": "Mississippi St."},
-    {"sched": "Mississippi Valley State", "kp": "Mississippi Valley St."},
-    {"sched": "Missouri State", "kp": "Missouri St."},
-    {"sched": "Montana State", "kp": "Montana St."},
-    {"sched": "Morehead State", "kp": "Morehead St."},
-    {"sched": "Morgan State", "kp": "Morgan St."},
-    {"sched": "Murray State", "kp": "Murray St."},
-    {"sched": "NC State", "kp": "N.C. State"},
-    {"sched": "New Mexico State", "kp": "New Mexico St."},
-    {"sched": "Nicholls", "kp": "Nicholls St."},
-    {"sched": "Norfolk State", "kp": "Norfolk St."},
-    {"sched": "North Dakota State", "kp": "North Dakota St."},
-    {"sched": "Northwestern State", "kp": "Northwestern St."},
-    {"sched": "Ohio State", "kp": "Ohio St."},
-    {"sched": "Oklahoma State", "kp": "Oklahoma St."},
-    {"sched": "Ole Miss", "kp": "Mississippi"},
-    {"sched": "Omaha", "kp": "Nebraska Omaha"},
-    {"sched": "Oregon State", "kp": "Oregon St."},
-    {"sched": "Penn State", "kp": "Penn St."},
-    {"sched": "Pennsylvania", "kp": "Penn"},
-    {"sched": "Portland State", "kp": "Portland St."},
-    {"sched": "Queens University", "kp": "Queens"},
-    {"sched": "Sacramento State", "kp": "Sacramento St."},
-    {"sched": "Sam Houston", "kp": "Sam Houston St."},
-    {"sched": "San Diego State", "kp": "San Diego St."},
-    {"sched": "San José State State", "kp": "San Jose St."},
-    {"sched": "SE Louisiana", "kp": "Southeastern Louisiana"},
-    {"sched": "Seattle U", "kp": "Seattle"},
-    {"sched": "South Carolina State", "kp": "South Carolina St."},
-    {"sched": "South Carolina Upstate", "kp": "USC Upstate"},
-    {"sched": "South Dakota State", "kp": "South Dakota St."},
-    {"sched": "Southeast Missouri State", "kp": "Southeast Missouri St."},
-    {"sched": "St. Francis (PA)", "kp": "St. Francis PA"},
-    {"sched": "St. Francis Brooklyn", "kp": "St. Francis NY"},
-    {"sched": "St. Thomas - Minnesota", "kp": "St. Thomas"},
-    {"sched": "Tarleton", "kp": "Tarleton St."},
-    {"sched": "Tennessee State", "kp": "Tennessee St."},
-    {"sched": "Texas A&M-Commerce", "kp": "Texas A&M Commerce"},
-    {"sched": "Texas A&M-Corpus Christi", "kp": "Texas A&M Corpus Chris"},
-    {"sched": "Texas State", "kp": "Texas St."},
-    {"sched": "UConn", "kp": "Connecticut"},
-    {"sched": "UIC", "kp": "Illinois Chicago"},
-    {"sched": "UL Monroe", "kp": "Louisiana Monroe"},
-    {"sched": "Umass", "kp": "Massachusetts"},
-    {"sched": "UT Martin", "kp": "Tennessee Martin"},
-    {"sched": "Utah State", "kp": "Utah St."},
-    {"sched": "Weber State", "kp": "Weber St."},
-    {"sched": "Wichita State", "kp": "Wichita St."},
-    {"sched": "Wright State", "kp": "Wright St."},
-    {"sched": "Youngstown State", "kp": "Youngstown St."}
+    {
+        "sched": "Alabama State",
+        "kp": "Alabama St."
+    },
+    {
+        "sched": "Alcorn State",
+        "kp": "Alcorn St."
+    },
+    {
+        "sched": "American University",
+        "kp": "American"
+    },
+    {
+        "sched": "Appalachian State",
+        "kp": "Appalachian St."
+    },
+    {
+        "sched": "Arizona State",
+        "kp": "Arizona St."
+    },
+    {
+        "sched": "Arkansas State",
+        "kp": "Arkansas St."
+    },
+    {
+        "sched": "Arkansas-Pine Bluff",
+        "kp": "Arkansas Pine Bluff"
+    },
+    {
+        "sched": "Ball State",
+        "kp": "Ball St."
+    },
+    {
+        "sched": "Bethune-Cookman",
+        "kp": "Bethune Cookman"
+    },
+    {
+        "sched": "Boise State",
+        "kp": "Boise St."
+    },
+    {
+        "sched": "Cal State Bakersfield",
+        "kp": "Cal St. Bakersfield"
+    },
+    {
+        "sched": "Cal State Fullerton",
+        "kp": "Cal St. Fullerton"
+    },
+    {
+        "sched": "Cal State Northridge",
+        "kp": "Cal St. Northridge"
+    },
+    {
+        "sched": "California Baptist",
+        "kp": "Cal Baptist"
+    },
+    {
+        "sched": "Chicago State",
+        "kp": "Chicago St."
+    },
+    {
+        "sched": "Cleveland State",
+        "kp": "Cleveland St."
+    },
+    {
+        "sched": "Colorado State",
+        "kp": "Colorado St."
+    },
+    {
+        "sched": "Coppin State",
+        "kp": "Coppin St."
+    },
+    {
+        "sched": "CSU Bakersfield",
+        "kp": "Cal St. Bakersfield"
+    },
+    {
+        "sched": "CSU Fullerton",
+        "kp": "Cal St. Fullerton"
+    },
+    {
+        "sched": "CSU Northridge",
+        "kp": "Cal St. Northridge"
+    },
+    {
+        "sched": "Delaware State",
+        "kp": "Delaware St."
+    },
+    {
+        "sched": "East Tennessee State",
+        "kp": "East Tennessee St."
+    },
+    {
+        "sched": "Florida International",
+        "kp": "FIU"
+    },
+    {
+        "sched": "Florida State",
+        "kp": "Florida St."
+    },
+    {
+        "sched": "Fresno State",
+        "kp": "Fresno St."
+    },
+    {
+        "sched": "Gardner-Webb",
+        "kp": "Gardner Webb"
+    },
+    {
+        "sched": "Georgia State",
+        "kp": "Georgia St."
+    },
+    {
+        "sched": "Grambling",
+        "kp": "Grambling St."
+    },
+    {
+        "sched": "Hawai'i",
+        "kp": "Hawaii"
+    },
+    {
+        "sched": "Idaho State",
+        "kp": "Idaho St."
+    },
+    {
+        "sched": "Illinois State",
+        "kp": "Illinois St."
+    },
+    {
+        "sched": "Indiana State",
+        "kp": "Indiana St."
+    },
+    {
+        "sched": "Iowa State",
+        "kp": "Iowa St."
+    },
+    {
+        "sched": "Jackson State",
+        "kp": "Jackson St."
+    },
+    {
+        "sched": "Jacksonville State",
+        "kp": "Jacksonville St."
+    },
+    {
+        "sched": "Kansas City",
+        "kp": "UMKC"
+    },
+    {
+        "sched": "Kansas State",
+        "kp": "Kansas St."
+    },
+    {
+        "sched": "Kennesaw State",
+        "kp": "Kennesaw St."
+    },
+    {
+        "sched": "Kent State",
+        "kp": "Kent St."
+    },
+    {
+        "sched": "Long Beach State",
+        "kp": "Long Beach St."
+    },
+    {
+        "sched": "Long Island University",
+        "kp": "LIU"
+    },
+    {
+        "sched": "Loyola Maryland",
+        "kp": "Loyola MD"
+    },
+    {
+        "sched": "Maryland-Eastern Shore",
+        "kp": "Maryland Eastern Shore"
+    },
+    {
+        "sched": "UMass",
+        "kp": "Massachusetts"
+    },
+    {
+        "sched": "McNeese",
+        "kp": "McNeese St."
+    },
+    {
+        "sched": "Miami",
+        "kp": "Miami FL"
+    },
+    {
+        "sched": "Miami (OH)",
+        "kp": "Miami OH"
+    },
+    {
+        "sched": "Michigan State",
+        "kp": "Michigan St."
+    },
+    {
+        "sched": "Mississippi State",
+        "kp": "Mississippi St."
+    },
+    {
+        "sched": "Mississippi Valley State",
+        "kp": "Mississippi Valley St."
+    },
+    {
+        "sched": "Missouri State",
+        "kp": "Missouri St."
+    },
+    {
+        "sched": "Montana State",
+        "kp": "Montana St."
+    },
+    {
+        "sched": "Morehead State",
+        "kp": "Morehead St."
+    },
+    {
+        "sched": "Morgan State",
+        "kp": "Morgan St."
+    },
+    {
+        "sched": "Murray State",
+        "kp": "Murray St."
+    },
+    {
+        "sched": "NC State",
+        "kp": "N.C. State"
+    },
+    {
+        "sched": "New Mexico State",
+        "kp": "New Mexico St."
+    },
+    {
+        "sched": "Nicholls",
+        "kp": "Nicholls St."
+    },
+    {
+        "sched": "Norfolk State",
+        "kp": "Norfolk St."
+    },
+    {
+        "sched": "North Dakota State",
+        "kp": "North Dakota St."
+    },
+    {
+        "sched": "Northwestern State",
+        "kp": "Northwestern St."
+    },
+    {
+        "sched": "Ohio State",
+        "kp": "Ohio St."
+    },
+    {
+        "sched": "Oklahoma State",
+        "kp": "Oklahoma St."
+    },
+    {
+        "sched": "Ole Miss",
+        "kp": "Mississippi"
+    },
+    {
+        "sched": "Omaha",
+        "kp": "Nebraska Omaha"
+    },
+    {
+        "sched": "Oregon State",
+        "kp": "Oregon St."
+    },
+    {
+        "sched": "Penn State",
+        "kp": "Penn St."
+    },
+    {
+        "sched": "Pennsylvania",
+        "kp": "Penn"
+    },
+    {
+        "sched": "Portland State",
+        "kp": "Portland St."
+    },
+    {
+        "sched": "Queens University",
+        "kp": "Queens"
+    },
+    {
+        "sched": "Sacramento State",
+        "kp": "Sacramento St."
+    },
+    {
+        "sched": "Sam Houston",
+        "kp": "Sam Houston St."
+    },
+    {
+        "sched": "San Diego State",
+        "kp": "San Diego St."
+    },
+    {
+        "sched": "San José State",
+        "kp": "San Jose St."
+    },
+    {
+        "sched": "SE Louisiana",
+        "kp": "Southeastern Louisiana"
+    },
+    {
+        "sched": "Seattle U",
+        "kp": "Seattle"
+    },
+    {
+        "sched": "South Carolina State",
+        "kp": "South Carolina St."
+    },
+    {
+        "sched": "South Carolina Upstate",
+        "kp": "USC Upstate"
+    },
+    {
+        "sched": "South Dakota State",
+        "kp": "South Dakota St."
+    },
+    {
+        "sched": "Southeast Missouri State",
+        "kp": "Southeast Missouri St."
+    },
+    {
+        "sched": "St. Francis (PA)",
+        "kp": "St. Francis PA"
+    },
+    {
+        "sched": "St. Francis Brooklyn",
+        "kp": "St. Francis NY"
+    },
+    {
+        "sched": "St. Thomas - Minnesota",
+        "kp": "St. Thomas"
+    },
+    {
+        "sched": "Tarleton",
+        "kp": "Tarleton St."
+    },
+    {
+        "sched": "Tennessee State",
+        "kp": "Tennessee St."
+    },
+    {
+        "sched": "Texas A&M-Commerce",
+        "kp": "Texas A&M Commerce"
+    },
+    {
+        "sched": "Texas A&M-Corpus Christi",
+        "kp": "Texas A&M Corpus Chris"
+    },
+    {
+        "sched": "Texas State",
+        "kp": "Texas St."
+    },
+    {
+        "sched": "UConn",
+        "kp": "Connecticut"
+    },
+    {
+        "sched": "UIC",
+        "kp": "Illinois Chicago"
+    },
+    {
+        "sched": "UL Monroe",
+        "kp": "Louisiana Monroe"
+    },
+    {
+        "sched": "Umass",
+        "kp": "Massachusetts"
+    },
+    {
+        "sched": "UT Martin",
+        "kp": "Tennessee Martin"
+    },
+    {
+        "sched": "Utah State",
+        "kp": "Utah St."
+    },
+    {
+        "sched": "Washington State",
+        "kp": "Washington St."
+    },
+    {
+        "sched": "Weber State",
+        "kp": "Weber St."
+    },
+    {
+        "sched": "Wichita State",
+        "kp": "Wichita St."
+    },
+    {
+        "sched": "Wright State",
+        "kp": "Wright St."
+    },
+    {
+        "sched": "Youngstown State",
+        "kp": "Youngstown St."
+    }
 ]
