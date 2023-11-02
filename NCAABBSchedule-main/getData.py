@@ -5,6 +5,7 @@ from urllib import request
 import ssl
 import pytz
 import json
+import sys
 
 
 def getContext(date_num):
@@ -79,31 +80,37 @@ def standardizeTeamNames(kenpom_rankings_df):
     return kenpom_rankings_df
 
 
-def main():
+def main(kenpom):
     print('Starting!')
+    print('Generate Kenpom: ' + kenpom)
     tz = pytz.timezone('US/Central')
     # start_date_str = datetime.datetime.now(tz).strftime('%Y%m%d')
     # start_date = datetime.datetime.strptime(start_date_str, '%Y%m%d').date()
-    # Set end date to last day of week you want to run for
     start_date = datetime.datetime.strptime("20231106", '%Y%m%d').date()
     # Set end date to last day of week you want to run for
     end_date = datetime.datetime.strptime("20231112", '%Y%m%d').date()
     print(f'Getting schedule for {start_date} - {end_date}')
     schedule_df = getScheduleForDateRange(start_date, end_date)
     schedule_df = cleanup(schedule_df)
-    print("Getting Kenpom Rankings")
-    kenpom_rankings_df = getKenpomRankings()
-    # Create dataframe for away teams
-    away_df = kenpom_rankings_df.merge(schedule_df[['Away','Home','Date']], left_on=['Team'], right_on=['Away'], how='inner').rename(columns={'Rk':'Rank','Home':'Opponent'})
-    away_df = away_df.merge(kenpom_rankings_df[['Team', 'Rk']], left_on=['Opponent'], right_on=['Team'], how='inner').rename(columns={'Rk':'Opponent Rank'})
-    # Create dataframe for home teams
-    home_df = kenpom_rankings_df.merge(schedule_df[['Away','Home','Date']], left_on=['Team'], right_on=['Home'], how='inner').rename(columns={'Rk':'Rank','Away':'Opponent'})
-    home_df = home_df.merge(kenpom_rankings_df[['Team', 'Rk']], left_on=['Opponent'], right_on=['Team'], how='inner').rename(columns={'Rk':'Opponent Rank'})
-    # Combine dataframes
-    combined_df = [away_df.loc[:,['Rank','Team_x','Opponent','Opponent Rank','Date']].rename(columns={'Team_x':'Team'}), home_df.loc[:,['Rank','Team_x','Opponent','Opponent Rank','Date']].rename(columns={'Team_x':'Team'})]
-    final_df = pd.concat(combined_df)
-    final_df['Game Count'] = final_df.groupby('Team')['Team'].transform('count')
-    final_df.sort_values(by=['Rank']).to_csv('NCAA2022-23_Final.csv',index=False)
+    filename = 'NCAA' + str(start_date) + '-' + str(end_date)
+    if kenpom == False:
+        print("Getting Kenpom Rankings")
+        kenpom_rankings_df = getKenpomRankings()
+        # Create dataframe for away teams
+        away_df = kenpom_rankings_df.merge(schedule_df[['Away','Home','Date']], left_on=['Team'], right_on=['Away'], how='inner').rename(columns={'Rk':'Rank','Home':'Opponent'})
+        away_df = away_df.merge(kenpom_rankings_df[['Team', 'Rk']], left_on=['Opponent'], right_on=['Team'], how='inner').rename(columns={'Rk':'Opponent Rank'})
+        # Create dataframe for home teams
+        home_df = kenpom_rankings_df.merge(schedule_df[['Away','Home','Date']], left_on=['Team'], right_on=['Home'], how='inner').rename(columns={'Rk':'Rank','Away':'Opponent'})
+        home_df = home_df.merge(kenpom_rankings_df[['Team', 'Rk']], left_on=['Opponent'], right_on=['Team'], how='inner').rename(columns={'Rk':'Opponent Rank'})
+        # Combine dataframes
+        combined_df = [away_df.loc[:,['Rank','Team_x','Opponent','Opponent Rank','Date']].rename(columns={'Team_x':'Team'}), home_df.loc[:,['Rank','Team_x','Opponent','Opponent Rank','Date']].rename(columns={'Team_x':'Team'})]
+        final_df = pd.concat(combined_df)
+        final_df['Game Count'] = final_df.groupby('Team')['Team'].transform('count')
+        final_df.sort_values(by=['Rank']).to_csv(filename + '.csv',index=False)
+    else:
+        print('Skipping Kenpom and creating schedule file')
+        noKPFileName = filename + 'NoKP' + '.csv'
+        schedule_df.to_csv(noKPFileName,index=False)
     print('Done!')
 
-main()
+main(sys.argv[1])
