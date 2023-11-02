@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd 
 import datetime
 from time import sleep
@@ -6,7 +7,7 @@ import ssl
 import pytz
 import json
 import sys
-
+import distutils.util
 
 def getContext(date_num):
     url = f'https://www.espn.com/mens-college-basketball/schedule/_/date/{date_num}/group/50'
@@ -93,7 +94,7 @@ def main(kenpom):
     schedule_df = getScheduleForDateRange(start_date, end_date)
     schedule_df = cleanup(schedule_df)
     filename = 'NCAA' + str(start_date) + '-' + str(end_date)
-    if kenpom == False:
+    if kenpom == "True":
         print("Getting Kenpom Rankings")
         kenpom_rankings_df = getKenpomRankings()
         # Create dataframe for away teams
@@ -107,10 +108,15 @@ def main(kenpom):
         final_df = pd.concat(combined_df)
         final_df['Game Count'] = final_df.groupby('Team')['Team'].transform('count')
         final_df.sort_values(by=['Rank']).to_csv(filename + '.csv',index=False)
+        print('Generated file: ' + filename + '.csv')
     else:
         print('Skipping Kenpom and creating schedule file')
         noKPFileName = filename + 'NoKP' + '.csv'
         schedule_df.to_csv(noKPFileName,index=False)
+        print('Generated file: ' + noKPFileName)
     print('Done!')
 
-main(sys.argv[1])
+parser=argparse.ArgumentParser(description="Flag that determines if Kenpom rankings are added to result set")
+parser.add_argument('--kp', action='store_true', default=False)
+args = parser.parse_args()
+main(str(args.kp))
